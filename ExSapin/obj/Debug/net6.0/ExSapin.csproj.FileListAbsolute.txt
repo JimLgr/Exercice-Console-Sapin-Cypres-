@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ExSapin\ExSapin\bin\Debug\net6.0\ExSapin.exe
+C:\Users\pc\source\repos\ExSapin\ExSapin\bin\Debug\net6.0\ExSapin.deps.json
+C:\Users\pc\source\repos\ExSapin\ExSapin\bin\Debug\net6.0\ExSapin.runtimeconfig.json
+C:\Users\pc\source\repos\ExSapin\ExSapin\bin\Debug\net6.0\ExSapin.dll
+C:\Users\pc\source\repos\ExSapin\ExSapin\bin\Debug\net6.0\ExSapin.pdb
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.dll
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ref\ExSapin.dll
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.pdb
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.genruntimeconfig.cache
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\ExSapin.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ExSapin\ExSapin\obj\Debug\net6.0\refint\ExSapin.dll
